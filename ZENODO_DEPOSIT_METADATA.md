@@ -17,7 +17,7 @@ Permanent archive metadata for the first reproducibility release.
 
 ## Description
 
-Reproducibility package for the research manuscript currently prepared for journal submission as "Prospective tests do not support five candidate human-inspired context effects in a large language model". The original working title was "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model". The archive contains manuscript source, the final analysis package, six frozen experiment artifacts covering 956 API calls, task banks, manifests, result summaries, integrity hashes, and rebuild scripts. No additional API calls are required to reproduce the manuscript-facing synthesis from the archived outputs.
+Reproducibility package for the research manuscript currently prepared for journal submission as "Prospective tests find no robust human-inspired context effects in a large language model". The original working title was "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model". The archive contains manuscript source, the final analysis package, six frozen experiment artifacts covering 956 API calls, task banks, manifests, result summaries, integrity hashes, and rebuild scripts. No additional API calls are required to reproduce the manuscript-facing synthesis from the archived outputs.
 
 ## DOI
 
