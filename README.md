@@ -2,7 +2,7 @@
 
 Reproducibility materials for the research manuscript now prepared for conventional journal submission under the title:
 
-**Prospective tests do not support five candidate human-inspired context effects in a large language model**
+**Prospective tests find no robust human-inspired context effects in a large language model**
 
 The original working title of the research package was **Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model**.
 
