@@ -1,0 +1,3 @@
+# Data and Code Availability — Final text
+
+> Manuscript source, analysis code, and human-readable reproducibility documentation are publicly available at https://github.com/ken-sasa/can-an-ai-be-placeboed. The exact complete reproducibility package used for arXiv v1—including protocols, generated task banks, manifests, frozen analysis code, condition-level outputs, result summaries, run-freeze records, the six final experiment artifacts comprising 956 paid API calls, and the locked cross-study numerical synthesis—is permanently archived on Zenodo at https://doi.org/10.5281/zenodo.21981010 (version 1.0.0). All analyses reported in the manuscript can be rebuilt from the archived outputs without additional API calls.
