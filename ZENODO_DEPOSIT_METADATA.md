@@ -1,6 +1,6 @@
 # Zenodo deposit metadata — v1.0.0
 
-Use these values for the first permanent archive.
+Permanent archive metadata for the first reproducibility release.
 
 - **Resource type:** Software
 - **Title:** Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? — Reproducibility Package v1.0.0
@@ -11,13 +11,13 @@ Use these values for the first permanent archive.
 - **Access:** Open
 - **Record license:** MIT (code); see `DATA_LICENSE.md` for CC BY 4.0 data/documentation terms
 - **Canonical GitHub URL:** https://github.com/ken-sasa/can-an-ai-be-placeboed
-- **GitHub release tag:** v1.0.0
-- **GitHub release title:** arXiv v1 Reproducibility Package
+- **Release tag:** v1.0.0
+- **Release title:** Reproducibility Package v1.0.0
 - **Keywords:** large language models; behavioral evaluation; replication; machine psychology; prompt sensitivity; reproducibility
 
 ## Description
 
-Reproducibility package for the preprint "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model". The archive contains the arXiv manuscript source, final analysis package, six frozen experiment artifacts covering 956 paid API calls, task banks, manifests, result summaries, integrity hashes, and rebuild scripts. No additional API calls are required to reproduce the manuscript-facing synthesis from the archived outputs.
+Reproducibility package for the research manuscript currently prepared for journal submission as "Prospective tests do not support five candidate human-inspired context effects in a large language model". The original working title was "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model". The archive contains manuscript source, the final analysis package, six frozen experiment artifacts covering 956 API calls, task banks, manifests, result summaries, integrity hashes, and rebuild scripts. No additional API calls are required to reproduce the manuscript-facing synthesis from the archived outputs.
 
 ## DOI
 
