@@ -1,14 +1,16 @@
 # Can an AI Be Placeboed, Dressed, Stamped, and Contaminated?
 
-Reproducibility materials for:
+Reproducibility materials for the research manuscript now prepared for conventional journal submission under the title:
 
-**Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model**
+**Prospective tests do not support five candidate human-inspired context effects in a large language model**
+
+The original working title of the research package was **Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model**.
 
 Author: **Kento Sasano** (Okayama University)
 
 Canonical public repository: **https://github.com/ken-sasa/can-an-ai-be-placeboed**
 
-Release: **v1.0.0 (arXiv v1 reproducibility package)**
+Release: **v1.0.0 reproducibility package**
 
 ## Public GitHub contents
 
@@ -16,7 +18,7 @@ Release: **v1.0.0 (arXiv v1 reproducibility package)**
 - locked manuscript-facing numerical summaries and final robustness report;
 - citation, licensing, and Zenodo metadata.
 
-The **exact complete reproducibility package**—including the manuscript source, analysis code, protocols, generated task banks, manifests, frozen analysis code, condition-level outputs, result summaries, run-freeze records, six final experiment artifacts covering 956 paid API calls, figures, tables, and rebuild scripts—is frozen in the Zenodo v1.0.0 archive.
+The **exact complete reproducibility package**—including manuscript source, analysis code, protocols, generated task banks, manifests, frozen analysis code, condition-level outputs, result summaries, run-freeze records, six final experiment artifacts covering 956 API calls, figures, tables, and rebuild scripts—is frozen in the Zenodo v1.0.0 archive.
 
 ## Reproducibility boundary
 
@@ -33,4 +35,4 @@ The version-specific Zenodo DOI for release `v1.0.0` is **[10.5281/zenodo.219810
 Exact Zenodo upload file for v1.0.0: `reproducibility-package-v1.0.0-zenodo.zip`  
 SHA-256: `61c84e227b0bff8074ad698ae9bf59018596e7f95cce6ed7c48c52a42f53e121`
 
-See `DATA_AND_CODE_AVAILABILITY.md` for the exact manuscript statement.
+See `DATA_AND_CODE_AVAILABILITY.md` for the manuscript statement.
