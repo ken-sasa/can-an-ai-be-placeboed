@@ -25,4 +25,9 @@ Reproducibility package for the preprint "Can an AI Be Placeboed, Dressed, Stamp
 - **DOI URL:** https://doi.org/10.5281/zenodo.21981010
 - **Version:** v1.0.0
 
+## Exact upload file
+
+- **Filename:** `reproducibility-package-v1.0.0-zenodo.zip`
+- **SHA-256:** `61c84e227b0bff8074ad698ae9bf59018596e7f95cce6ed7c48c52a42f53e121`
+
 For the manuscript, cite this version-specific DOI so the cited files cannot silently change under the citation.
