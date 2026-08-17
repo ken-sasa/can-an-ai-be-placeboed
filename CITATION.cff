@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the version-specific Zenodo record and the associated preprint."
+title: "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? — Reproducibility Package"
+type: software
+authors:
+  - family-names: Sasano
+    given-names: Kento
+    affiliation: Okayama University
+version: 1.0.0
+doi: "10.5281/zenodo.21981010"
+date-released: 2026-08-17
+repository-code: "https://github.com/ken-sasa/can-an-ai-be-placeboed"
+license: MIT
+keywords:
+  - large language models
+  - behavioral evaluation
+  - replication
+  - machine psychology
+  - prompt sensitivity
+  - reproducibility
+repository-artifact: "https://doi.org/10.5281/zenodo.21981010"
