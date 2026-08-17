@@ -1,0 +1,30 @@
+{
+  "title": "Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? — Reproducibility Package v1.0.0",
+  "upload_type": "software",
+  "description": "Reproducibility package for the preprint 'Can an AI Be Placeboed, Dressed, Stamped, and Contaminated? Five Prospective Tests of Human-Like Context Effects in a Large Language Model'. The archive contains the arXiv manuscript source, final analysis package, six frozen experiment artifacts covering 956 paid API calls, task banks, manifests, result summaries, integrity hashes, and rebuild scripts. No additional API calls are required to reproduce the manuscript-facing synthesis from the archived outputs.",
+  "creators": [
+    {
+      "name": "Sasano, Kento",
+      "affiliation": "Okayama University"
+    }
+  ],
+  "version": "1.0.0",
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "large language models",
+    "behavioral evaluation",
+    "replication",
+    "machine psychology",
+    "prompt sensitivity",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/ken-sasa/can-an-ai-be-placeboed",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Canonical GitHub repository: https://github.com/ken-sasa/can-an-ai-be-placeboed. Reserved version-specific DOI: 10.5281/zenodo.21981010."
+}
